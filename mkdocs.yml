@@ -1,0 +1,24 @@
+site_name: ROSflight
+site_url: http://rosflight.org
+repo_url: https://github.com/rosflight/firmware
+edit_uri: blob/master/docs/
+# google_analytics: ['UA-96018590-2', 'docs.rosflight.org']
+theme: readthedocs
+theme_dir: docs/custom_theme
+extra_css: [custom_theme/extra.css]
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+    - mdx_math
+pages:
+  - Home: index.md
+  - Getting Started:
+    - Installing Ubuntu: getting_started/installing_ubuntu_16.04.md
+    - Environment Setup: getting_started/environment_setup.md
+    - Setting Up ssh: getting_started/ssh.md
+    - CAEDM Integration: getting_started/CAEDM_integration.md
+  - ROS Tutorials:
+    - Introduction to ROS: ros_tutorials/intro.md
+    - Lesson 1 - Starting Nodes: ros_tutorials/starting_nodes.md
+    - Assignment 1 - Turtlesim: ros_tutorials/assignments/turtlesim_assignment.md
+    - Lesson 2 - ROS Filesystem: ros_tutorials/filesystem.md

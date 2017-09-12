@@ -24,3 +24,18 @@ pages:
     - Assignment 1 - Turtlesim: ros_tutorials/assignments/turtlesim_assignment.md
     - Lesson 3 - ROS Filesystem: ros_tutorials/filesystem.md
     - Lesson 4 - Launch Files: ros_tutorials/launch_files.md
+    - Assignment 2 - Create a Launch File: ros_tutorials/assignments/creating_launch_file.md
+    - Lesson 5 - ROS topics: ros_tutorials/rostopic.md
+    - Assignment 3 - Topics and Messages: ros_tutorials/assignments/nodes_topics_and_messages.md
+    - Lesson 6 - Topic Remapping: ros_tutorials/topic_remapping.md
+    - Lesson 7 - Parameters: ros_tutorials/parameters.md
+    - Lesson 8 - Advanced Launch Files: ros_tutorials/adv_launch_file.md
+    - Assignment 4 - Advanced Launch file: ros_tutorials/assignments/launch_file_advanced.md
+    - Lesson 9 - Creating Nodes: ros_tutorials/creating_nodes.md
+    - Lesson 10 - Packages: ros_tutorials/packages.md
+    - Assignment 5 - Editing a Node: ros_tutorials/assignments/edit_node.md
+    - Lesson 11 - Class-Based Node (C++): ros_tutorials/c++_node_class.md
+    - Lesson 12 - Class-Based Node (Python): ros_tutorials/python_node_class.md
+    - Assignment 6 - Drawing a Star: ros_tutorials/assignments/draw_a_star.md
+    - Assignment 7 - Display/Publish Fuel Remaining: ros_tutorials/assignments/fuel.md
+    - Assignment 8 - Stop Turtlesim When Fuel Runs Out: ros_tutorials/assignments/out_of_fuel.md

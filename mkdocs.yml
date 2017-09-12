@@ -20,5 +20,7 @@ pages:
   - ROS Tutorials:
     - Introduction to ROS: ros_tutorials/intro.md
     - Lesson 1 - Starting Nodes: ros_tutorials/starting_nodes.md
+    - Lesson 2 - Getting Info About Nodes: ros_tutorials/node_info.md
     - Assignment 1 - Turtlesim: ros_tutorials/assignments/turtlesim_assignment.md
-    - Lesson 2 - ROS Filesystem: ros_tutorials/filesystem.md
+    - Lesson 3 - ROS Filesystem: ros_tutorials/filesystem.md
+    - Lesson 4 - Launch Files: ros_tutorials/launch_files.md
